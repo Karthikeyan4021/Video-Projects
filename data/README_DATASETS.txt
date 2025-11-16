@@ -1,0 +1,1 @@
+Place UCF101/HMDB51/Kinetics clips and COCO/MOT datasets here.
